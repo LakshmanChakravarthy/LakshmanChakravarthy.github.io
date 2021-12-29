@@ -17,9 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-domain: lakshmanchakravarthy.github.io
-baseurl: /lakshmanchakravarthy.github.io/
-url: https://lakshmanchakravarthy.github.io
 title: Lakshman's Blog
 email: lakastro@gmail.com
 description: Work day musings
