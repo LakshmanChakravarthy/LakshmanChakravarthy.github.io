@@ -20,6 +20,8 @@
 title: Lakshman's Blog
 email: lakastro@gmail.com
 description: Work day musings
+baseurl: ""
+url: ""
 twitter_username: @LakshmanCogSci
 github_username:  LakshmanChakravarthy
 
